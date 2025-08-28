@@ -1,3 +1,4 @@
+#sample script for training
 library(tidyverse)
 library(palmerpenguins)
 
